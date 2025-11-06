@@ -1,0 +1,5 @@
+{
+  "name": "Limpeza e Normalização de Comunicados JSON",
+  "description": "Carrega o arquivo JSON bruto de comunicados, limpa HTML, remove ruído e exporta dataset estruturado.",
+  "requestFramePermissions": []
+}
